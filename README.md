@@ -44,7 +44,7 @@ He trabajado en proyectos como:
 ## 📫 Contacto
 - 📍 Concepción, Chile  
 - 📧 jorgeriffo.u@gmail.com  
-- 💼 LinkedIn: (agrega tu link aquí)
+- 💼 LinkedIn: https://www.linkedin.com/in/jorge-riffo-uribe-2a2a8a251/
 
 ---
 
