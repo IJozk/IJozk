@@ -3,6 +3,17 @@
 
 ---
 
+## 🚀 Sobre mí
+Soy Ingeniero en Informática con experiencia en desarrollo Full Stack y procesamiento de datos.  
+Me enfoco en construir soluciones eficientes que conecten software, datos y servicios cloud.
+
+He trabajado en proyectos como:
+- 📊 Automatización de procesos tributarios (Node.js + AWS)
+- ⚙️ Pipeline ETL para datos mineros (Python + Pandas)
+- 🌐 Plataforma IoT para monitoreo en tiempo real
+
+---
+
 ## 🛠️ Tecnologías
 
 <p align="left">
@@ -17,20 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/>
 </p>
 
----
-
-## 🚀 Sobre mí
-Soy Ingeniero en Informática con experiencia en desarrollo Full Stack y procesamiento de datos.  
-Me enfoco en construir soluciones eficientes que conecten software, datos y servicios cloud.
-
-He trabajado en proyectos como:
-- 📊 Automatización de procesos tributarios (Node.js + AWS)
-- ⚙️ Pipeline ETL para datos mineros (Python + Pandas)
-- 🌐 Plataforma IoT para monitoreo en tiempo real
-
----
-
-## 🛠️ Tecnologías
 **Lenguajes y Frameworks:**
 - JavaScript (Node.js, Vue.js, React)
 - Python
